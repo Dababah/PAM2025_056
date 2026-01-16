@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">SmartReturn</string>
+
+    <string name="login_title">Selamat Datang Kembali</string>
+    <string name="register_title">Daftar Akun Baru</string>
+    <string name="email_label">Alamat Email</string>
+    <string name="password_label">Kata Sandi</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="no_account">Belum punya akun? Daftar sekarang</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+
+    <string name="home_welcome">Halo, Selamat Datang!</string>
+    <string name="home_subtitle">Pilih instrumen investasi Anda</string>
+    <string name="menu_emas">Investasi Emas</string>
+    <string name="menu_deposito">Deposito Bank</string>
+    <string name="menu_riwayat">Riwayat Simulasi</string>
+    <string name="menu_pengaturan">Pengaturan</string>
+
+    <string name="simulasi_emas_title">Simulasi Investasi Emas</string>
+    <string name="simulasi_deposito_title">Simulasi Deposito</string>
+    <string name="label_modal_awal">Modal Awal (Rp)</string>
+    <string name="label_pertumbuhan">Pertumbuhan per Tahun (%)</string>
+    <string name="label_jangka_waktu">Jangka Waktu (Tahun)</string>
+    <string name="label_bunga">Bunga per Tahun (%)</string>
+    <string name="btn_hitung">Hitung Proyeksi</string>
+    <string name="hasil_proyeksi">Hasil Proyeksi Akhir:</string>
+    <string name="total_dana">Total Dana Akhir:</string>
+
+    <string name="riwayat_title">Riwayat Perhitungan</string>
+    <string name="no_history">Belum ada riwayat simulasi.</string>
+    <string name="delete_history">Hapus Semua Riwayat</string>
+
+    <string name="error_empty_fields">Harap isi semua kolom!</string>
+    <string name="error_invalid_email">Format email tidak valid.</string>
+    <string name="error_login_failed">Login gagal. Cek email atau password.</string>
 </resources>
